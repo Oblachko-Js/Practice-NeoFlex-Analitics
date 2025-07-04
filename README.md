@@ -276,3 +276,8 @@
 
 ## Диаграмма последовательности (PlantUML)
 <img width="952" alt="image" src="https://github.com/user-attachments/assets/4568265c-bbaf-4afb-b7c8-ad17bbed4062" />
+
+# Camunda бизнес-процессы для онлайн калькулятора, 3 варианта. Есть и во вложении в GitHub.
+1. https://modeler.camunda.io/share/07a6acb1-3a58-4d6c-b6f6-955e065e426b
+2. https://modeler.camunda.io/share/bd713e73-397d-4620-ad9e-507bdd92175d
+3. https://modeler.camunda.io/share/30ea7b76-7a8d-4e48-84c8-dadd7ae5ba04
